@@ -1,4 +1,4 @@
-<h1>Hello, I'm Mandeep <br/>I'm a <a href="https://github.com/mp-sec">Programmer</a>, and a <a href="https://www.linkedin.com/in/mandeepparihar/">Cybersecurity Professional</a>
+<h1>Hello, I'm Mandeep <br/>I'm a <a href="https://github.com/mp-sec?tab=repositories">Programmer</a>, and a <a href="https://www.linkedin.com/in/mandeepparihar/">Cybersecurity Professional</a> 
 
 <h2>💻 Cybersecurity Projects:</h2>
 
