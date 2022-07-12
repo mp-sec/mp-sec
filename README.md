@@ -10,7 +10,7 @@
   - [File Hex Dumper](https://github.com/mp-sec/hexDumper)
   - [Banner Grabber](https://github.com/mp-sec/bannerGrabber)
   - [Process Information Scraper (Linux)](https://github.com/mp-sec/processInfoScraper)
-- <b>Powershell</b>
+- <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/mp-sec/file-integrity-monitor)
 
 <h2>📚 General:</h2>
