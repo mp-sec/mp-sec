@@ -11,6 +11,7 @@
   - [Banner Grabber](https://github.com/mp-sec/bannerGrabber)
   - [Process Information Scraper (Linux)](https://github.com/mp-sec/processInfoScraper)
 - <b>PowerShell</b>
+  - [Azure SIEM Honeypot with Geographic Heat Map of Attacks](https://github.com/mp-sec/azure-siem-tutorial)
   - [FIM (File Integrity Monitor)](https://github.com/mp-sec/file-integrity-monitor)
 
 <h2>📚 General:</h2>
